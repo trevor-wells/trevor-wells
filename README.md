@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm Trevor Wells</h1>
-<h3 align="center">A passionate fullstack developer from Boise, Idaho</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trevor-wells" alt="trevor-wells" /></a> </p>
+<h1 align="center">Hi there, I'm Trevor Wells</h1>
+<h3 align="center">A passionate fullstack developer from Boise</h3>
 
 - 📫 How to reach me **trevorwells.se@gmail.com**
 
